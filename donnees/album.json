@@ -1,0 +1,801 @@
+[{
+        "id": 1,
+        "artiste": "13 Block",
+        "nom_album": "BLO II",
+        "date_sortie": "27/11/2020",
+        "titres": 19,
+        "duree": "01:00:15"
+    },
+    {
+        "id": 2,
+        "artiste": "1Plike140",
+        "nom_album": "ARRETEZ-LE!(Vol.2)",
+        "date_sortie": "01/12/2021",
+        "titres": 14,
+        "duree": "00:45:23"
+    },
+    {
+        "id": 3,
+        "artiste": "1Plike140",
+        "nom_album": "1PLIKTOI",
+        "date_sortie": "10/12/2020",
+        "titres": 10,
+        "duree": "00:31:21"
+    },
+    {
+        "id": 4,
+        "artiste": "4Keus",
+        "nom_album": "Vie d'artiste",
+        "date_sortie": "03/01/2020",
+        "titres": 15,
+        "duree": "00:54:26"
+    },
+    {
+        "id": 5,
+        "artiste": "Alkpote",
+        "nom_album": "Vie rapide",
+        "date_sortie": "03/07/2020",
+        "titres": 7,
+        "duree": "00:21:45"
+    },
+    {
+        "id": 6,
+        "artiste": "Alkpote",
+        "nom_album": "Ogre",
+        "date_sortie": "09/07/2021",
+        "titres": 15,
+        "duree": "00:50:12"
+    },
+    {
+        "id": 7,
+        "artiste": "Alpha Wann",
+        "nom_album": "Don Dada Mixtape vol 1",
+        "date_sortie": "18/12/2020",
+        "titres": 17,
+        "duree": "00:46:19"
+    },
+    {
+        "id": 8,
+        "artiste": "Bolemvn",
+        "nom_album": "Vol 159",
+        "date_sortie": "29/05/2020",
+        "titres": 15,
+        "duree": "00:42:09"
+    },
+    {
+        "id": 9,
+        "artiste": "Bolemvn",
+        "nom_album": "Anarchiste",
+        "date_sortie": "09/07/2021",
+        "titres": 14,
+        "duree": "00:41:40"
+    },
+    {
+        "id": 10,
+        "artiste": "Bosh",
+        "nom_album": "Synkinisi",
+        "date_sortie": "27/11/2020",
+        "titres": 29,
+        "duree": "01:15:42"
+    },
+    {
+        "id": 11,
+        "artiste": "Bramsito",
+        "nom_album": "Substance",
+        "date_sortie": "14/05/2021",
+        "titres": 14,
+        "duree": "00:41:02"
+    },
+    {
+        "id": 12,
+        "artiste": "Brulux",
+        "nom_album": "La sans pitax",
+        "date_sortie": "08/01/2021",
+        "titres": 16,
+        "duree": "00:47:33"
+    },
+    {
+        "id": 13,
+        "artiste": "Caballero",
+        "nom_album": "OSO",
+        "date_sortie": "16/04/2021",
+        "titres": 19,
+        "duree": "00:46:28"
+    },
+    {
+        "id": 14,
+        "artiste": "Captaine Roshi",
+        "nom_album": "Contre Attaque",
+        "date_sortie": "13/02/2020",
+        "titres": 20,
+        "duree": "01:01:49"
+    },
+    {
+        "id": 15,
+        "artiste": "Captaine Roshi",
+        "nom_album": "Attaque II",
+        "date_sortie": "27/11/2020",
+        "titres": 15,
+        "duree": "00:43:56"
+    },
+    {
+        "id": 16,
+        "artiste": "DA Uzi",
+        "nom_album": "Architecte (Bonus Version)",
+        "date_sortie": "03/04/2020",
+        "titres": 21,
+        "duree": "01:02:35"
+    },
+    {
+        "id": 17,
+        "artiste": "DA Uzi",
+        "nom_album": "Vrai 2 Vrai",
+        "date_sortie": "23/07/2021",
+        "titres": 17,
+        "duree": "00:50:30"
+    },
+    {
+        "id": 18,
+        "artiste": "Damso",
+        "nom_album": "QALF Infinity",
+        "date_sortie": "28/04/2021",
+        "titres": 25,
+        "duree": "01:22:28"
+    },
+    {
+        "id": 19,
+        "artiste": "Deen Burbigo",
+        "nom_album": "Cercle Vertueux",
+        "date_sortie": "06/11/2020",
+        "titres": 15,
+        "duree": "00:44:55"
+    },
+    {
+        "id": 20,
+        "artiste": "Deen Burbigo",
+        "nom_album": "OG SAN",
+        "date_sortie": "09/07/2021",
+        "titres": 8,
+        "duree": "00:22:18"
+    },
+    {
+        "id": 21,
+        "artiste": "Dinos",
+        "nom_album": "Stamina,",
+        "date_sortie": "26/11/2020",
+        "titres": 14,
+        "duree": "00:45:01"
+    },
+    {
+        "id": 22,
+        "artiste": "Dinos",
+        "nom_album": "Stamina, Memento",
+        "date_sortie": "02/07/2021",
+        "titres": 26,
+        "duree": "01:23:38"
+    },
+    {
+        "id": 23,
+        "artiste": "Franglish",
+        "nom_album": "Vibe",
+        "date_sortie": "09/07/2021",
+        "titres": 18,
+        "duree": "00:54:47"
+    },
+    {
+        "id": 24,
+        "artiste": "Frenetik",
+        "nom_album": "Couleurs du jeu (Reedition)",
+        "date_sortie": "25/06/2021",
+        "titres": 27,
+        "duree": "01:21:44"
+    },
+    {
+        "id": 25,
+        "artiste": "Fresh laDouille",
+        "nom_album": "Sur ecoute",
+        "date_sortie": "05/11/2021",
+        "titres": 11,
+        "duree": "00:33:14"
+    },
+    {
+        "id": 26,
+        "artiste": "Gips",
+        "nom_album": "Album gratuit, Vol 1",
+        "date_sortie": "30/09/2020",
+        "titres": 10,
+        "duree": "00:32:33"
+    },
+    {
+        "id": 27,
+        "artiste": "Gips",
+        "nom_album": "Le monde est a nous",
+        "date_sortie": "17/12/2021",
+        "titres": 19,
+        "duree": "01:02:15"
+    },
+    {
+        "id": 28,
+        "artiste": "GLK",
+        "nom_album": "Karma",
+        "date_sortie": "19/11/2021",
+        "titres": 15,
+        "duree": "00:43:27"
+    },
+    {
+        "id": 29,
+        "artiste": "Green Montana",
+        "nom_album": "Alaska",
+        "date_sortie": "30/10/2020",
+        "titres": 16,
+        "duree": "00:39:47"
+    },
+    {
+        "id": 30,
+        "artiste": "Green Montana",
+        "nom_album": "MELANCHOLIA 999",
+        "date_sortie": "22/07/2021",
+        "titres": 10,
+        "duree": "00:24:03"
+    },
+    {
+        "id": 31,
+        "artiste": "Guy2Bezbar",
+        "nom_album": "COCO JOJO",
+        "date_sortie": "17/12/2021",
+        "titres": 20,
+        "duree": "00:59:59"
+    },
+    {
+        "id": 32,
+        "artiste": "Hatik",
+        "nom_album": "Vague a l'ame",
+        "date_sortie": "12/03/2021",
+        "titres": 29,
+        "duree": "01:14:10"
+    },
+    {
+        "id": 33,
+        "artiste": "Hatik",
+        "nom_album": "Chaise pliante (Edition Deluxe)",
+        "date_sortie": "05/06/2020",
+        "titres": 48,
+        "duree": "02:31:46"
+    },
+    {
+        "id": 34,
+        "artiste": "Heuss L'enfoire + Vald",
+        "nom_album": "Horizon Vertical",
+        "date_sortie": "18/12/2020",
+        "titres": 12,
+        "duree": "00:37:03"
+    },
+    {
+        "id": 35,
+        "artiste": "Hornet La Frappe",
+        "nom_album": "Ma ruche (Reedition)",
+        "date_sortie": "31/01/2020",
+        "titres": 19,
+        "duree": "00:56:45"
+    },
+    {
+        "id": 36,
+        "artiste": "Hornet La Frappe",
+        "nom_album": "Toujours nous-memes",
+        "date_sortie": "27/08/2021",
+        "titres": 14,
+        "duree": "00:39:26"
+    },
+    {
+        "id": 37,
+        "artiste": "ISK",
+        "nom_album": "Le mal est fait",
+        "date_sortie": "20/03/2020",
+        "titres": 12,
+        "duree": "00:39:31"
+    },
+    {
+        "id": 38,
+        "artiste": "ISK",
+        "nom_album": "Verite",
+        "date_sortie": "27/05/2021",
+        "titres": 19,
+        "duree": "01:00:42"
+    },
+    {
+        "id": 39,
+        "artiste": "Jeanjass",
+        "nom_album": "Hat Trick",
+        "date_sortie": "16/04/2021",
+        "titres": 18,
+        "duree": "00:52:20"
+    },
+    {
+        "id": 40,
+        "artiste": "Joe Dwet File",
+        "nom_album": "Calypso",
+        "date_sortie": "04/06/2021",
+        "titres": 20,
+        "duree": "01:07:56"
+    },
+    {
+        "id": 41,
+        "artiste": "Josman",
+        "nom_album": "SPLIT",
+        "date_sortie": "05/03/2020",
+        "titres": 23,
+        "duree": "01:11:08"
+    },
+    {
+        "id": 42,
+        "artiste": "Jul",
+        "nom_album": "Independance",
+        "date_sortie": "10/12/2021",
+        "titres": 21,
+        "duree": "01:18:09"
+    },
+    {
+        "id": 43,
+        "artiste": "Jul",
+        "nom_album": "Demain ca ira",
+        "date_sortie": "25/06/2021",
+        "titres": 19,
+        "duree": "01:06:00"
+    },
+    {
+        "id": 44,
+        "artiste": "Jul",
+        "nom_album": "Album gratuit, Vol 6",
+        "date_sortie": "26/02/2021",
+        "titres": 7,
+        "duree": "00:23:02"
+    },
+    {
+        "id": 45,
+        "artiste": "Jul",
+        "nom_album": "Loin du monde",
+        "date_sortie": "18/12/2020",
+        "titres": 18,
+        "duree": "01:04:50"
+    },
+    {
+        "id": 46,
+        "artiste": "Jul",
+        "nom_album": "La machine",
+        "date_sortie": "19/06/2020",
+        "titres": 30,
+        "duree": "01:48:43"
+    },
+    {
+        "id": 47,
+        "artiste": "Kaaris",
+        "nom_album": "2.7.0",
+        "date_sortie": "03/09/2020",
+        "titres": 20,
+        "duree": "01:01:43"
+    },
+    {
+        "id": 48,
+        "artiste": "Kaaris",
+        "nom_album": "2.7.0 : Chateau Noir",
+        "date_sortie": "26/03/2021",
+        "titres": 31,
+        "duree": "01:35:09"
+    },
+    {
+        "id": 49,
+        "artiste": "Kalash Criminel",
+        "nom_album": "Selection naturelle",
+        "date_sortie": "20/11/2020",
+        "titres": 19,
+        "duree": "01:00:15"
+    },
+    {
+        "id": 50,
+        "artiste": "Kekra",
+        "nom_album": "Freebase, Vol. 04",
+        "date_sortie": "27/03/2020",
+        "titres": 15,
+        "duree": "00:42:59"
+    },
+    {
+        "id": 51,
+        "artiste": "Kekra",
+        "nom_album": "Kekra",
+        "date_sortie": "02/04/2021",
+        "titres": 27,
+        "duree": "01:21:37"
+    },
+    {
+        "id": 52,
+        "artiste": "Koba laD",
+        "nom_album": "Detail",
+        "date_sortie": "23/10/2020",
+        "titres": 15,
+        "duree": "00:47:08"
+    },
+    {
+        "id": 53,
+        "artiste": "Koba laD",
+        "nom_album": "Cartel : volume 1 & 2",
+        "date_sortie": "10/12/2021",
+        "titres": 14,
+        "duree": "00:41:25"
+    },
+    {
+        "id": 54,
+        "artiste": "Kodes",
+        "nom_album": "Avoir & etre",
+        "date_sortie": "16/04/2021",
+        "titres": 18,
+        "duree": "00:47:55"
+    },
+    {
+        "id": 55,
+        "artiste": "La Feve",
+        "nom_album": "ERRR",
+        "date_sortie": "17/12/2021",
+        "titres": 18,
+        "duree": "00:38:53"
+    },
+    {
+        "id": 56,
+        "artiste": "Lacrim",
+        "nom_album": "R.I.P.R.O 4",
+        "date_sortie": "15/10/2020",
+        "titres": 17,
+        "duree": "00:52:50"
+    },
+    {
+        "id": 57,
+        "artiste": "Landy",
+        "nom_album": "A-One",
+        "date_sortie": "18/12/2020",
+        "titres": 18,
+        "duree": "00:52:51"
+    },
+    {
+        "id": 58,
+        "artiste": "Larry",
+        "nom_album": "Cite blanche",
+        "date_sortie": "30/01/2020",
+        "titres": 19,
+        "duree": "00:56:20"
+    },
+    {
+        "id": 59,
+        "artiste": "Larry",
+        "nom_album": "Petit Prince",
+        "date_sortie": "29/10/2021",
+        "titres": 15,
+        "duree": "00:40:40"
+    },
+    {
+        "id": 60,
+        "artiste": "Leto",
+        "nom_album": "100 visages",
+        "date_sortie": "28/08/2020",
+        "titres": 15,
+        "duree": "00:48:43"
+    },
+    {
+        "id": 61,
+        "artiste": "Leto",
+        "nom_album": "17%",
+        "date_sortie": "17/09/2021",
+        "titres": 17,
+        "duree": "00:50:35"
+    },
+    {
+        "id": 62,
+        "artiste": "Luv Resval",
+        "nom_album": "Etoile Noire",
+        "date_sortie": "04/06/2021",
+        "titres": 19,
+        "duree": "01:04:26"
+    },
+    {
+        "id": 63,
+        "artiste": "Mac Tyer",
+        "nom_album": "Untouchable",
+        "date_sortie": "20/05/2021",
+        "titres": 9,
+        "duree": "00:30:41"
+    },
+    {
+        "id": 64,
+        "artiste": "Mac Tyer",
+        "nom_album": "Noir 3",
+        "date_sortie": "01/10/2021",
+        "titres": 11,
+        "duree": "00:36:20"
+    },
+    {
+        "id": 65,
+        "artiste": "Mehdi YZ",
+        "nom_album": "FPVS",
+        "date_sortie": "26/03/2021",
+        "titres": 14,
+        "duree": "00:42:01"
+    },
+    {
+        "id": 66,
+        "artiste": "Menace Santana",
+        "nom_album": "!",
+        "date_sortie": "17/12/2021",
+        "titres": 12,
+        "duree": "00:29:49"
+    },
+    {
+        "id": 67,
+        "artiste": "Mister you",
+        "nom_album": "HLM2",
+        "date_sortie": "05/02/2021",
+        "titres": 17,
+        "duree": "00:53:44"
+    },
+    {
+        "id": 68,
+        "artiste": "Moji x Siboy",
+        "nom_album": "Temps d'aime",
+        "date_sortie": "11/06/2021",
+        "titres": 12,
+        "duree": "00:37:13"
+    },
+    {
+        "id": 69,
+        "artiste": "Nepal",
+        "nom_album": "Adios Bahamas",
+        "date_sortie": "01/01/2020",
+        "titres": 12,
+        "duree": "00:38:06"
+    },
+    {
+        "id": 70,
+        "artiste": "Niro",
+        "nom_album": "Sale meme",
+        "date_sortie": "09/07/2020",
+        "titres": 30,
+        "duree": "01:25:21"
+    },
+    {
+        "id": 71,
+        "artiste": "Niro",
+        "nom_album": "Sale meme (edition Finale)",
+        "date_sortie": "16/07/2021",
+        "titres": 44,
+        "duree": "02:05:16"
+    },
+    {
+        "id": 72,
+        "artiste": "Rim'K",
+        "nom_album": "ADN",
+        "date_sortie": "12/02/2021",
+        "titres": 7,
+        "duree": "00:20:47"
+    },
+    {
+        "id": 73,
+        "artiste": "Rim'K",
+        "nom_album": "Midnight",
+        "date_sortie": "10/04/2020",
+        "titres": 7,
+        "duree": "00:22:39"
+    },
+    {
+        "id": 74,
+        "artiste": "RK",
+        "nom_album": "Neverland",
+        "date_sortie": "02/07/2020",
+        "titres": 16,
+        "duree": "00:46:40"
+    },
+    {
+        "id": 75,
+        "artiste": "RK",
+        "nom_album": "100 rancunes",
+        "date_sortie": "02/07/2021",
+        "titres": 14,
+        "duree": "00:38:33"
+    },
+    {
+        "id": 76,
+        "artiste": "S.Pri Noir",
+        "nom_album": "Etat d'esprit (Saison 999)",
+        "date_sortie": "06/08/2021",
+        "titres": 10,
+        "duree": "00:32:30"
+    },
+    {
+        "id": 77,
+        "artiste": "Sadek",
+        "nom_album": "Aimons-Nous Vivants",
+        "date_sortie": "09/04/2021",
+        "titres": 20,
+        "duree": "01:05:24"
+    },
+    {
+        "id": 78,
+        "artiste": "Sasso",
+        "nom_album": "Enfant2LaRue Vol.1",
+        "date_sortie": "18/12/2020",
+        "titres": 18,
+        "duree": "00:56:00"
+    },
+    {
+        "id": 79,
+        "artiste": "Sasso",
+        "nom_album": "Enfant2LaRue Vol.2",
+        "date_sortie": "10/12/2021",
+        "titres": 24,
+        "duree": "01:13:28"
+    },
+    {
+        "id": 80,
+        "artiste": "SDM",
+        "nom_album": "OCHO",
+        "date_sortie": "09/04/2021",
+        "titres": 20,
+        "duree": "01:04:32"
+    },
+    {
+        "id": 81,
+        "artiste": "Shotas",
+        "nom_album": "Cauchemars et reves",
+        "date_sortie": "10/12/2021",
+        "titres": 14,
+        "duree": "00:40:16"
+    },
+    {
+        "id": 82,
+        "artiste": "Sifax",
+        "nom_album": "La mentale",
+        "date_sortie": "09/10/2020",
+        "titres": 16,
+        "duree": "00:49:17"
+    },
+    {
+        "id": 83,
+        "artiste": "Sneazzy",
+        "nom_album": "38degrees",
+        "date_sortie": "09/07/2021",
+        "titres": 9,
+        "duree": "00:26:27"
+    },
+    {
+        "id": 84,
+        "artiste": "Sopico",
+        "nom_album": "Nuages",
+        "date_sortie": "14/10/2021",
+        "titres": 13,
+        "duree": "00:38:32"
+    },
+    {
+        "id": 85,
+        "artiste": "S-pion",
+        "nom_album": "Sourou 2",
+        "date_sortie": "22/10/2021",
+        "titres": 10,
+        "duree": "00:32:53"
+    },
+    {
+        "id": 86,
+        "artiste": "Squidji",
+        "nom_album": "OCYTOCINE",
+        "date_sortie": "28/05/2021",
+        "titres": 17,
+        "duree": "00:48:16"
+    },
+    {
+        "id": 87,
+        "artiste": "Timal",
+        "nom_album": "Trop Caliente",
+        "date_sortie": "28/02/2020",
+        "titres": 34,
+        "duree": "01:43:03"
+    },
+    {
+        "id": 88,
+        "artiste": "Timal",
+        "nom_album": "Ares",
+        "date_sortie": "15/10/2021",
+        "titres": 16,
+        "duree": "00:48:23"
+    },
+    {
+        "id": 89,
+        "artiste": "TK",
+        "nom_album": "Pas ouehda",
+        "date_sortie": "20/11/2020",
+        "titres": 18,
+        "duree": "01:00:13"
+    },
+    {
+        "id": 90,
+        "artiste": "TK",
+        "nom_album": "Warmin Up",
+        "date_sortie": "01/12/2021",
+        "titres": 9,
+        "duree": "00:30:00"
+    },
+    {
+        "id": 91,
+        "artiste": "UZI",
+        "nom_album": "Coeur abime",
+        "date_sortie": "19/02/2021",
+        "titres": 16,
+        "duree": "00:49:59"
+    },
+    {
+        "id": 92,
+        "artiste": "UZI",
+        "nom_album": "Coeur de piere",
+        "date_sortie": "25/07/2021",
+        "titres": 13,
+        "duree": "00:43:25"
+    },
+    {
+        "id": 93,
+        "artiste": "Vald",
+        "nom_album": "Echelon, Vol. 1",
+        "date_sortie": "27/11/2020",
+        "titres": 11,
+        "duree": "00:30:44"
+    },
+    {
+        "id": 94,
+        "artiste": "Vald",
+        "nom_album": "Echelon, Vol. 2",
+        "date_sortie": "23/04/2021",
+        "titres": 10,
+        "duree": "00:31:32"
+    },
+    {
+        "id": 95,
+        "artiste": "YL",
+        "nom_album": "Vaillants",
+        "date_sortie": "16/04/2020",
+        "titres": 12,
+        "duree": "00:35:01"
+    },
+    {
+        "id": 96,
+        "artiste": "YL",
+        "nom_album": "Compte de faits",
+        "date_sortie": "17/09/2020",
+        "titres": 15,
+        "duree": "00:42:52"
+    },
+    {
+        "id": 97,
+        "artiste": "Youv Dee",
+        "nom_album": "Planete Mars",
+        "date_sortie": "06/03/2020",
+        "titres": 8,
+        "duree": "00:25:06"
+    },
+    {
+        "id": 98,
+        "artiste": "Youv Dee",
+        "nom_album": "La vie de luxe",
+        "date_sortie": "05/02/2021",
+        "titres": 15,
+        "duree": "00:44:26"
+    },
+    {
+        "id": 99,
+        "artiste": "Ziak",
+        "nom_album": "Akimbo",
+        "date_sortie": "12/11/2021",
+        "titres": 17,
+        "duree": "00:46:17"
+    },
+    {
+        "id": 100,
+        "artiste": "ZKR",
+        "nom_album": "Dans les mains",
+        "date_sortie": "08/01/2021",
+        "titres": 21,
+        "duree": "01:13:39"
+    }
+]
